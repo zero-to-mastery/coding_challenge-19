@@ -6,7 +6,7 @@ This coding challenge is all about **Building a React based personal blog using 
 ## What is the Challenge?
 Yihua is going to provide a free lesson for you to watch on how to build a blog using Gatsby.js which can be found here (free previewed enabled if you are not signed up for the course so anybody can still watch it!). Once you have gone through the video, it is time for you to create your own blog and customize it to your liking. You can even add Dark Mode to your blog using something like this: https://darkmodejs.learn.uno/
 
-At the end of the challenge, we will post everyone's custom blogs down below so make sure you read below for the submission guidelines (In *The Rules Are section*)!
+At the end of the challenge, we will post everyone's custom blogs down below so make sure you read below for the submission guidelines (In *The Rules Are* section)!
 
 ## Submissions:
 
