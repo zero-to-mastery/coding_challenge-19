@@ -1,6 +1,6 @@
 # coding_challenge-19
 
-This coding challenge is all about **Building a React based personal blog using Gatsby.js**. To celebrate the release of the new course **Complete React Developer in 2019: Zero to Mastery** (use coupon code **ZTMLAUNCH**), we are doing an exciting challenge where you will learn how to build a blog using the very popular Gatsby.js!
+This coding challenge is all about **Building a React based personal blog using Gatsby.js**. To celebrate the release of the new course [**Complete React Developer in 2019: Zero to Mastery**](https://www.udemy.com/complete-react-developer-zero-to-mastery/?couponCode=ZTMLAUNCH) (use coupon code **ZTMLAUNCH**), we are doing an exciting challenge where you will learn how to build a blog using the very popular Gatsby.js!
 
 
 ## What is the Challenge?
