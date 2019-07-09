@@ -1,10 +1,10 @@
 # coding_challenge-19
 
-This coding challenge is all about **Building a React based personal blog using Gatsby.js**. To celebrate the release of the new course [**Complete React Developer in 2019: Zero to Mastery**](https://www.udemy.com/complete-react-developer-zero-to-mastery/?couponCode=ZTMLAUNCH) (use coupon code **ZTMLAUNCH**), we are doing an exciting challenge where you will learn how to build a blog using the very popular Gatsby.js!
+This coding challenge is all about **Building a React based personal blog using GatsbyJS**. To celebrate the release of the new course [**Complete React Developer in 2019: Zero to Mastery**](https://www.udemy.com/complete-react-developer-zero-to-mastery/?couponCode=ZTMLAUNCH) (use coupon code **ZTMLAUNCH**), we are doing an exciting challenge where you will learn how to build a blog using the very popular Gatsby.js!
 
 
 ## What is the Challenge?
-Yihua is going to provide a free lesson for you to watch on how to build a blog using Gatsby.js which can be found here (free previewed enabled if you are not signed up for the course so anybody can still watch it!). Once you have gone through the video, it is time for you to create your own blog and customize it to your liking. You can even add Dark Mode to your blog using something like this: https://darkmodejs.learn.uno/
+Yihua is going to provide free video lessons for you to watch on how to build a blog using Gatsby.js which can be found [**here**](https://www.udemy.com/complete-react-developer-zero-to-mastery/?couponCode=ZTMLAUNCH) (free previewed enabled if you are not signed up for the course so anybody can still watch it!). For those signed up for the course already, you will be able to watch the videos in the last bonus section of your course player. For those not signed up for the course, just click on the promo video and you sill see the videos at the bottom). These videos will only be available for this month only for those not enrolled in the React course. Once you have gone through the video, it is time for you to create your own blog and customize it to your liking. You can even add Dark Mode to your blog using something like this: https://darkmodejs.learn.uno/
 
 At the end of the challenge, we will post everyone's custom blogs down below so make sure you read below for the submission guidelines (In *The Rules Are* section)!
 
