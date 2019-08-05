@@ -10,7 +10,88 @@ At the end of the challenge, we will post everyone's custom blogs down below so 
 
 ## Submissions:
 
-*Will be posted at the end of the challenge*
+
+Drood#6880  
+Github Repo  
+https://github.com/drood87/danibernstein.com  
+----------  
+  
+bushblade#9828  
+Github Repo  
+https://github.com/bushblade/bushblade-knives-website  
+----------  
+   
+Piggy#8788  
+Github Repo  
+https://github.com/Chun-Lin/ChunLin-Blog  
+----------  
+   
+pillinho_sk#5509  
+Github Repo  
+https://github.com/Dromediansk/mp-blog  
+----------  
+   
+Pol#5889  
+Github Repo  
+https://github.com/PaolaArz/GT_gatsby-blog  
+----------  
+  
+HappyCoder434#1596  
+Github Repo  
+https://github.com/anirban-s/gatsby-blog  
+----------  
+  
+💥[J] [J]💥#3197  
+Github Repo  
+https://github.com/TheVip/codewithjalaj  
+----------  
+   
+Ori P#1143  
+Github Repo  
+https://github.com/OPerel/gatsby-parallax-blog  
+----------  
+  
+Apollo#9026  
+Github Repo  
+https://github.com/Trojan-Cat/Gatsby-Blog  
+----------  
+  
+dogcatmouse#9095  
+Github Repo  
+https://github.com/jianweilee128/gatsby-blogsday  
+----------  
+  
+nimisha_agarwal#5038  
+Github Pages  
+https://nimishaagarwal.github.io/sday   
+----------  
+  
+Brienyll#5304  
+Other Link  
+https://gblog29.netlify.com/sday   
+----------  
+  
+Brittney#1988  
+Github Repo  
+https://github.com/sballgirl11/portfolio  
+Other Link  
+https://bdesigned.netlify.com/sday  
+----------  
+  
+ytrkptl#8630  
+Github Repo  
+https://github.com/ytrkptl/yatrik-airtable-gatsby-blogsday  
+----------  
+  
+Brittney#1988  
+Github Repo  
+https://github.com/sballgirl11/portfoliosday  
+----------  
+  
+Cong Liu#4400  
+Other Link  
+http://congliu.xyz/day  
+----------  
 
 ## The Rules Are:
 
