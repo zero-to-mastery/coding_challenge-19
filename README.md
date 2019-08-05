@@ -58,39 +58,39 @@ https://github.com/Trojan-Cat/Gatsby-Blog
   
 dogcatmouse#9095  
 Github Repo  
-https://github.com/jianweilee128/gatsby-blogsday  
+https://github.com/jianweilee128/gatsby-blog
 ----------  
   
 nimisha_agarwal#5038  
 Github Pages  
-https://nimishaagarwal.github.io/sday   
+https://nimishaagarwal.github.io  
 ----------  
   
 Brienyll#5304  
 Other Link  
-https://gblog29.netlify.com/sday   
+https://gblog29.netlify.com 
 ----------  
   
 Brittney#1988  
 Github Repo  
 https://github.com/sballgirl11/portfolio  
 Other Link  
-https://bdesigned.netlify.com/sday  
+https://bdesigned.netlify.com  
 ----------  
   
 ytrkptl#8630  
 Github Repo  
-https://github.com/ytrkptl/yatrik-airtable-gatsby-blogsday  
+https://github.com/ytrkptl/yatrik-airtable-gatsby-blog  
 ----------  
   
 Brittney#1988  
 Github Repo  
-https://github.com/sballgirl11/portfoliosday  
+https://github.com/sballgirl11/portfolio 
 ----------  
   
 Cong Liu#4400  
 Other Link  
-http://congliu.xyz/day  
+http://congliu.xyz  
 ----------  
 
 ## The Rules Are:
