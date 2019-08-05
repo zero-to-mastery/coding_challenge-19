@@ -10,11 +10,6 @@ At the end of the challenge, we will post everyone's custom blogs down below so 
 
 ## Submissions:
 
-
-Drood#6880  
-Github Repo  
-https://github.com/drood87/danibernstein.com  
-----------  
   
 bushblade#9828  
 Github Repo  
@@ -24,6 +19,11 @@ https://github.com/bushblade/bushblade-knives-website
 Piggy#8788  
 Github Repo  
 https://github.com/Chun-Lin/ChunLin-Blog  
+----------  
+
+Drood#6880  
+Github Repo  
+https://github.com/drood87/danibernstein.com  
 ----------  
    
 pillinho_sk#5509  
